@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Dreys.github.io
+title: Dreys
+paginate: 5
